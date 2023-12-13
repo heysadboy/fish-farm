@@ -1,0 +1,11 @@
+.analytics-info {
+  border: 2px solid #bcbcbc;
+  padding: 30px;
+  border-radius: 10px;
+  margin: 40px 40px 60px 40px;
+}
+
+.live-info {
+  margin: 20px 40px 60px 40px;
+  padding: 30px;
+}
