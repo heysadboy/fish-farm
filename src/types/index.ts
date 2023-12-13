@@ -19,3 +19,13 @@ export interface IFarm {
   location: string;
   tanks: ITank[];
 }
+
+export interface IBioMetric {
+  id: number;
+  name: string;
+  species: string;
+  location: string;
+  farm: string;
+  fish_image: string;
+  info: string;
+}

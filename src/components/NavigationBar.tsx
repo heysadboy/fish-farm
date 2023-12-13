@@ -19,10 +19,12 @@ const NavigationBar: React.FC = () => {
         Analytics
       </Link>
       <Link
-        to="/species"
-        className={`item ${location.pathname === "/species" ? "active" : ""}`}
+        to="/biometrics"
+        className={`item ${
+          location.pathname === "/biometrics" ? "active" : ""
+        }`}
       >
-        Species
+        Biometrics
       </Link>
     </div>
   );

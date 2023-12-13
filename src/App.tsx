@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Farms from "./pages/Farms";
 import NavigationBar from "./components/NavigationBar";
 import Analytics from "./pages/Analytics";
-import Species from "./pages/Species";
+import BioMetrics from "./pages/BioMetrics";
 import "./styles/App.css";
 
 const App: React.FC = () => {
@@ -14,7 +14,7 @@ const App: React.FC = () => {
         <Routes>
           <Route path="/" element={<Farms />} />
           <Route path="/analytics" element={<Analytics />} />
-          <Route path="/species" element={<Species />} />
+          <Route path="/biometrics" element={<BioMetrics />} />
         </Routes>
       </div>
     </Router>

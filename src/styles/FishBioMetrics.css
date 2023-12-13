@@ -1,0 +1,12 @@
+.biometric-container {
+  display: flex;
+  padding: 20px;
+}
+
+.biometric-image-container {
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-right: 20px;
+}

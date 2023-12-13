@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Fish 1",
+    "species": "Species 1",
+    "location": "Location 1",
+    "farm": "Farm 1",
+    "fish_image": "fish_1.png",
+    "info": "Looking healthy"
+  },
+  {
+    "id": 2,
+    "name": "Fish 2",
+    "species": "Species 2",
+    "location": "Location 1",
+    "farm": "Farm 1",
+    "fish_image": "fish_2.png",
+    "info": "Looking healthy"
+  },
+  {
+    "id": 3,
+    "name": "Fish 3",
+    "species": "Species 1",
+    "location": "Location 1",
+    "farm": "Farm 1",
+    "fish_image": "fish_1.png",
+    "info": "Looking healthy"
+  },
+  {
+    "id": 4,
+    "name": "Fish 4",
+    "species": "Species 3",
+    "location": "Location 2",
+    "farm": "Farm 2",
+    "fish_image": "fish_3.png",
+    "info": "Needs treatment"
+  },
+  {
+    "id": 5,
+    "name": "Fish 5",
+    "species": "Species 4",
+    "location": "Location 2",
+    "farm": "Farm 1",
+    "fish_image": "fish_1.png",
+    "info": "Ready for extraction"
+  },
+  {
+    "id": 6,
+    "name": "Fish 6",
+    "species": "Species 3",
+    "location": "Location 2",
+    "farm": "Farm 2",
+    "fish_image": "fish_3.png",
+    "info": "Looking healthy"
+  },
+  {
+    "id": 7,
+    "name": "Fish 7",
+    "species": "Species 3",
+    "location": "Location 2",
+    "farm": "Farm 2",
+    "fish_image": "fish_3.png",
+    "info": "Looking healthy"
+  }
+]
