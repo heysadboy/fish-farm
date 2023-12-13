@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "Farm 1",
+    "location": "Location 1",
+    "tanks": [
+      {
+        "id": 1,
+        "name": "Tank 1",
+        "species": "Species 1",
+        "fish_image": "fish_1.png",
+        "status": "Good",
+        "parameters": {
+          "parameter_1": "Parameter 1",
+          "parameter_2": "Parameter 2",
+          "parameter_3": "Parameter 3"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Tank 2",
+        "species": "Species 2",
+        "fish_image": "fish_2.png",
+        "status": "Good",
+        "parameters": {
+          "parameter_1": "Parameter 1",
+          "parameter_2": "Parameter 2",
+          "parameter_3": "Parameter 3"
+        }
+      },
+      {
+        "id": 3,
+        "name": "Tank 3",
+        "species": "Species 3",
+        "fish_image": "fish_3.png",
+        "status": "Needs Check",
+        "parameters": {
+          "parameter_1": "Parameter 1",
+          "parameter_2": "Parameter 2",
+          "parameter_3": "Parameter 3"
+        }
+      },
+      {
+        "id": 4,
+        "name": "Tank 4",
+        "species": "Species 4",
+        "fish_image": "fish_4.png",
+        "status": "Needs Check",
+        "parameters": {
+          "parameter_1": "Parameter 1",
+          "parameter_2": "Parameter 2",
+          "parameter_3": "Parameter 3"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Farm 2",
+    "location": "Location 2",
+    "tanks": [
+      {
+        "id": 1,
+        "name": "Tank 1",
+        "species": "Species 1",
+        "fish_image": "fish_1.png",
+        "status": "Good",
+        "parameters": {
+          "parameter_1": "Parameter 1",
+          "parameter_2": "Parameter 2",
+          "parameter_3": "Parameter 3"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Tank 2",
+        "species": "Species 2",
+        "fish_image": "fish_2.png",
+        "status": "Good",
+        "parameters": {
+          "parameter_1": "Parameter 1",
+          "parameter_2": "Parameter 2",
+          "parameter_3": "Parameter 3"
+        }
+      },
+      {
+        "id": 3,
+        "name": "Tank 3",
+        "species": "Species 3",
+        "fish_image": "fish_4.png",
+        "status": "Needs Check",
+        "parameters": {
+          "parameter_1": "Parameter 1",
+          "parameter_2": "Parameter 2",
+          "parameter_3": "Parameter 3"
+        }
+      }
+    ]
+  }
+]

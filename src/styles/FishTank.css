@@ -1,0 +1,22 @@
+.fish-tank-container {
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.circular-border {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  border: 4px dashed #5b5b5b;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: border-color 0.3s ease-in-out, transform 0.5s ease-in-out;
+}
+
+.circular-border:hover {
+  border-color: #1ca3ec;
+  cursor: pointer;
+}
